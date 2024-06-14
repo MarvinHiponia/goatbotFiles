@@ -19,14 +19,14 @@
   "adminBot": [
     "61560386714149",
     "61559636334033",
-    "61559289413216",
+    "61559289413216"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "Tanjiro Kamado",
+  "nickNameBot": " ",
   "prefix": "!",
   "database": {
     "type": "sqlite",
@@ -140,4 +140,4 @@
     "autoReconnect": false,
     "notes": "Document here: https://github.com/ntkhang03/fb-chat-api/blob/master/DOCS.md#apisetoptionsoptions "
   }
-}
+    }
